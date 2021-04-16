@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="TextAppearanceBold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearanceEmpty" />
+</resources>
